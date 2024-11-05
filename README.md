@@ -2,7 +2,7 @@ SPRINT 7
 
 Python: Nociones y conocimientos básicos
 
-🎯 OBJETIVOS 
+🎯 OBJETIVO
 
 Este sprint está diseñado para introducir los fundamentos de Python, centrándose en los conceptos básicos necesarios para empezar a programar en este lenguaje.
 
