@@ -1,6 +1,6 @@
 SPRINT 7
 
-Python: Nociones y conocimientos básicos
+Python: Estructura de datos y de control
 
 🎯 OBJETIVO
 
